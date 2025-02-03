@@ -28,11 +28,6 @@ I focus on 3D reconstruction, computational graphics, computer vision, multi-mod
 I published ["FV2ES: A Fully End2End Multimodal System for Fast Yet Effective Video Emotion Recognition Inference"](https://ieeexplore.ieee.org/document/9944173) ,focused on Multimodal Video Sentiment Analysis ([IEEE Transaction of Broadcasting](https://bts.ieee.org/publications/ieee-transactions-on-broadcasting.html)).
 
 
-
-
-————————————————
-
-
 Pubilications
 ======
 
